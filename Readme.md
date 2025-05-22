@@ -1,4 +1,4 @@
-#Mario_game_self_learning
+# Mario_game_self_learning
 Introducing a reinforcement learning
 approach for playing the Mario game efficiently. We utilize
 various reinforcement learning models, train them on Super
